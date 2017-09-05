@@ -15,7 +15,7 @@ in html
         <meta charset = "utf-8"/>
         <title> Harlan Cheer: Personal Website</title>
         <link href="portfolio/css/style.css" rel="stylesheet" type="text/css"/>
-        
+        <link href="https://fonts.googleapis.com/css?family=Krona+One" rel="stylesheet">
     </head>
 <!-- closing head -->
 
