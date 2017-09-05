@@ -39,7 +39,7 @@ in html
         
         <main>
             <figure id="me">
-                <img src = "img/me2.jpg" alt="Picture of Harley Cheer">
+                <img src = "portfolio/img/me2.jpg" alt="Picture of Harley Cheer">
             </figure>
             
             <div id = "welcomeText">Hello! <br/>
@@ -69,7 +69,7 @@ in html
             it is used for my skoolin.
             <br/>
             <figure id ="otter">
-                <img src="img/otter.jpg" alt = "Go Otters!"></img>
+                <img src="portfolio/img/otter.jpg" alt = "Go Otters!"></img>
             </figure>
         </footer>
         <!-- closing footer -->
