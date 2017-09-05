@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <!--
 
@@ -14,7 +14,7 @@ in html
     <head>
         <meta charset = "utf-8"/>
         <title> Harlan Cheer: Personal Website</title>
-        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="portfolio/css/style.css" rel="stylesheet" type="text/css"/>
         
     </head>
 <!-- closing head -->
@@ -31,8 +31,8 @@ in html
         <nav>
             <hr  />
             <a id="currentLink" href="index.php">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="portfolio/about.html">About</a>
+            <a href="portfolio/contact.html">Contact</a>
             
         </nav>
         <br/><br/>
